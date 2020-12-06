@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Parking Task</string>
+    <string name="search">Search</string>
+    <string name="not_connected">You are not connected to Internet!</string>
+</resources>
